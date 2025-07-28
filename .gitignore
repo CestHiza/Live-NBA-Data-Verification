@@ -1,0 +1,24 @@
+Python
+pycache/
+*.py[cod]
+*$py.class
+*.egg-info/
+.installed.cfg
+*.egg
+
+Virtual Environment
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+Data files - Ignore all generated data files
+*.csv
+
+IDE & System specific
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
